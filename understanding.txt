@@ -1,0 +1,14 @@
+1.)
+  The program will return '\0'.
+
+2.)
+  The program will return ' '.
+
+3.)
+  The getWinner() involves checking to see if there is a winner and return a value while makeMove() involves taking inputs and arguements and returns a true or false based off of a valid move on the board.
+
+4.)
+  You would return true and possibly a notification like "It is a tie!".
+
+5.)
+  getCurrentPlayer() would return 'X' at the start of a new game because in TicTacToe::TicTacToe() the current player is 'x'.
